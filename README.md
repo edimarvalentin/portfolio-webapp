@@ -1,3 +1,5 @@
+[![Azure Static Web Apps CI/CD](https://github.com/edimarvalentin/portfolio-webapp/actions/workflows/azure-static-web-apps-delightful-moss-0efe26510.yml/badge.svg)](https://github.com/edimarvalentin/portfolio-webapp/actions/workflows/azure-static-web-apps-delightful-moss-0efe26510.yml)
+
 # PortfolioWebapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
